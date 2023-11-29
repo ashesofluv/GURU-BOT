@@ -18,7 +18,7 @@
       "value": ""
     },
     "MODE": {
-      "description": "mode private",
+      "description": "mode Private",
       "required": true,
       "value": "private"
     },
